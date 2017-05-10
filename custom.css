@@ -37,8 +37,11 @@ li a:hover:not(.active) {
 }
 
 #WiA {
-    background-color: #111;
-    color: #CFCFCF;
+    background-image: url("anime0.jpg");
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-size: 100% 100%;
+    color: #BBFFFF;
 }
 
 #action {
