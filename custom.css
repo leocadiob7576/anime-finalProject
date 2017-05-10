@@ -25,15 +25,22 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color:  #111;
+    background-color: #111;
 }
+
 .active {
     background-color: #4CAF50;
 }
+
 #info {
     background-color: orange;
 }
+
 #WiA {
     background-color: #111;
-    color:#CFCFCF;
+    color: #CFCFCF;
+}
+
+#action {
+    color: #BBFFFF;
 }
