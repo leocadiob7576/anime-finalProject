@@ -42,7 +42,8 @@ li a:hover:not(.active) {
     color: white;
 }
 
-#action {
+
+#actionG {
     color: #BBFFFF;
      background-image: url("anime0.jpg");
     background-repeat: no-repeat;
