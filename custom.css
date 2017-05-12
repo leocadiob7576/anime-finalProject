@@ -54,6 +54,11 @@ li a:hover:not(.active) {
     font-size: x-large;
 }
 
+#actionG{
+    
+}
+
+
 #romanceG {
     background-image: url("anime2.jpg");
     background-repeat: no-repeat;
