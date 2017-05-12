@@ -34,20 +34,33 @@ li a:hover:not(.active) {
     background-color: orange;
 }
 
-#WiA {
+#firstGen {
     background-image: url("anime4.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
-    color: white;
+    color: green;
+    border: solid;
+    font-size: x-large;
 }
 
-
-#actionG {
+#secondGen {
     color: #BBFFFF;
-     background-image: url("anime0.jpg");
+    background-image: url("anime0.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
+    color: purple;
+    border: solid;
+    font-size: x-large;
 }
 
+#romanceG {
+    background-image: url("anime2.jpg");
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-size: 100% 100%;
+    color: white;
+    border: solid;
+    font-size: x-large;
+}
