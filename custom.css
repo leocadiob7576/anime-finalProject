@@ -41,7 +41,7 @@ li a:hover:not(.active) {
     background-size: 100% 100%;
     color: green;
     border: solid;
-    font-size: x-large;
+    font-size: xx-large;
 }
 
 #secondGen {
@@ -49,15 +49,30 @@ li a:hover:not(.active) {
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
-    color: purple;
+    color: white;
     border: solid;
-    font-size: x-large;
+    font-size: xx-large;
 }
 
 #actionG{
-    
+    background-image:url("action.jpg");
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-size: 100% 100%;
+    color:blue;
+    border: solid;
+    font-size: xx-large;
 }
 
+#comedyG{
+    background-image: url("comedy.jpg");
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-size: 100% 100%;
+    color: pink;
+    border: solid;
+    font-size: xx-large;
+}
 
 #romanceG {
     background-image: url("romance.jpg");
@@ -66,5 +81,5 @@ li a:hover:not(.active) {
     background-size: 100% 100%;
     color: white;
     border: solid;
-    font-size: x-large;
+    font-size: xx-large;
 }
