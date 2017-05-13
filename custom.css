@@ -39,7 +39,7 @@ li a:hover:not(.active) {
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
-    color: green;
+    color: #00FA9A;
     border: solid;
     font-size: xx-large;
 }
@@ -54,17 +54,17 @@ li a:hover:not(.active) {
     font-size: xx-large;
 }
 
-#actionG{
-    background-image:url("action.jpg");
+#actionG {
+    background-image: url("action.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
-    color:blue;
+    color: blue;
     border: solid;
     font-size: xx-large;
 }
 
-#comedyG{
+#comedyG {
     background-image: url("comedy.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
@@ -74,12 +74,62 @@ li a:hover:not(.active) {
     font-size: xx-large;
 }
 
+#dramaG {
+    background-image: url("drama.jpg");
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-size: 100% 100%;
+    color: 	#D2691E;
+    border: solid;
+    font-size: xx-large;
+}
+
+#historyG {
+    background-image: url("history.jpg");
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-size: 100% 100%;
+    color: #9370DB;
+    border: solid;
+    font-size: xx-large;
+}
+
+#mechaG {
+    background-image: url("mecha.jpg");
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-size: 100% 100%;
+    color: pink;
+    border: solid;
+    font-size: xx-large;
+}
+
+#supernaturalG {
+    background-image: url("magic.jpg");
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-size: 100% 100%;
+    color: yellow;
+    border: solid;
+    font-size: xx-large;
+}
+
 #romanceG {
     background-image: url("romance.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
-    color: white;
+    color: orange;
+    border: solid;
+    font-size: xx-large;
+}
+
+#psychologicalG {
+    background-image: url("psychological.jpg");
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-size: 100% 100%;
+    color: green;
     border: solid;
     font-size: xx-large;
 }
