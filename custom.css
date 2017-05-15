@@ -35,7 +35,7 @@ li a:hover:not(.active) {
 }
 
 #firstGen {
-    background-image: url("firstGen.jpg");
+    background-image: url("pictures/firstGen.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
@@ -45,7 +45,7 @@ li a:hover:not(.active) {
 }
 
 #secondGen {
-    background-image: url("secondGen.jpg");
+    background-image: url("pictures/secondGen.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
@@ -55,7 +55,7 @@ li a:hover:not(.active) {
 }
 
 #actionG {
-    background-image: url("action.jpg");
+    background-image: url("pictures/action.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
@@ -65,7 +65,7 @@ li a:hover:not(.active) {
 }
 
 #comedyG {
-    background-image: url("comedy.jpg");
+    background-image: url("pictures/comedy.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
@@ -75,7 +75,7 @@ li a:hover:not(.active) {
 }
 
 #dramaG {
-    background-image: url("drama.jpg");
+    background-image: url("pictures/drama.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
@@ -85,7 +85,7 @@ li a:hover:not(.active) {
 }
 
 #historyG {
-    background-image: url("history.jpg");
+    background-image: url("pictures/history.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
@@ -95,7 +95,7 @@ li a:hover:not(.active) {
 }
 
 #mechaG {
-    background-image: url("mecha.jpg");
+    background-image: url("pictures/mecha.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
@@ -105,7 +105,7 @@ li a:hover:not(.active) {
 }
 
 #supernaturalG {
-    background-image: url("magic.jpg");
+    background-image: url("pictures/magic.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
@@ -115,7 +115,7 @@ li a:hover:not(.active) {
 }
 
 #romanceG {
-    background-image: url("romance.jpg");
+    background-image: url("pictures/romance.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
@@ -125,7 +125,7 @@ li a:hover:not(.active) {
 }
 
 #psychologicalG {
-    background-image: url("psychological.jpg");
+    background-image: url("pictures/psychological.jpg");
     background-repeat: no-repeat;
     padding-top: 40px;
     background-size: 100% 100%;
